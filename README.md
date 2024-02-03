@@ -19,3 +19,5 @@
 ## Installation
 
 No installation is required. Simply open the index.html file in a web browser to view the celebrity image gallery.
+
+![Screenshot_8](https://github.com/dev-alihasan/hover-to-image-detailes/assets/101947194/b4110107-301e-4783-add7-8b48ff2bfe97)
